@@ -21,3 +21,4 @@ It uses Sigmoid curve to output probability figures.
 
 ## More detailed Explanation with Formula
 + [Click Here to View Detailed explained Formula](https://ibb.co/r3bDswC)
++ With Variables [Click to view](https://ibb.co/YRGH6kG)
