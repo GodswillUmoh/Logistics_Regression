@@ -14,3 +14,6 @@ It uses Sigmoid curve to output probability figures.
 
 ### Sigmoid Curve and Prediction of New Observations
 > The sigmoid curve is a key component of logistic regression, used to model the relationship between input features and the probability of an observation belonging to a particular class. Its "S-shape" ensures that predictions are mapped to a probability range between 0 and 1.
+
+## Logistics Regression Formula
++ [Click to view Logistics Regression Formula](https://ibb.co/gjVyfVg)
