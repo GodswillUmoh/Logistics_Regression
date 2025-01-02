@@ -22,3 +22,8 @@ It uses Sigmoid curve to output probability figures.
 ## More detailed Explanation with Formula
 + [Click Here to View Detailed explained Formula](https://ibb.co/r3bDswC)
 + With Variables [Click to view](https://ibb.co/YRGH6kG)
+
+## Calculation of Maximum likelihood.
+The calculation is based on the adjustment of the sigmoid curve. see explanation
+> + Maximum Likelihood of Sigmoid Curve in Logistic Regression: 
+> The maximum likelihood estimation (MLE) is a statistical method used to estimate the parameters (weights and bias) of a logistic regression model. It leverages the sigmoid function to compute the probabilities of class labels for observations and optimizes the parameters to maximize the likelihood of observing the given data.
