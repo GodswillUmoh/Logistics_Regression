@@ -17,3 +17,4 @@ It uses Sigmoid curve to output probability figures.
 
 ## Logistics Regression Formula
 + [Click to view Logistics Regression Formula](https://ibb.co/gjVyfVg)
++ [Click to View More Detailed Formula for Logistics Regression](https://ibb.co/34ZKM3v)
